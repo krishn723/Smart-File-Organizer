@@ -8,7 +8,7 @@ The following walkthrough demonstrates how to use the **Smart File Organizer** a
 
 After launching the application, the main window appears. This is the central dashboard from where all file management operations are performed. Users can browse a folder, organize files, view statistics, filter categories, and monitor activities through the built-in activity log.
 
-![Main Page](readme-ifile-mages/main%20page.png)
+![Main Page](Project-Files/readme-file-images/main%20page.png)
 
 ---
 
@@ -16,11 +16,11 @@ After launching the application, the main window appears. This is the central da
 
 Click on the **Browse File** button to choose the folder that contains the files you want to organize.
 
-![Browse File](readme-ifile-mages/Browse%20file.png)
+![Browse File](Project-Files/readme-file-images/Browse%20file.png)
 
 Once a folder is selected, the application scans its contents and prepares them for organization.
 
-![Select Folder](readme-ifile-mages/select%20an%20folder.png)
+![Select Folder](Project-Files/readme-file-images/select%20an%20folder.png)
 
 ---
 
@@ -50,7 +50,7 @@ This eliminates manual sorting and keeps the directory clean and organized.
 
 The application also provides an overview of the selected directory.
 
-![Folder Statistics](readme-ifile-mages/total%20files.png)
+![Folder Statistics](Project-Files/readme-file-images/total%20files.png)
 
 From this panel, users can quickly check:
 
@@ -67,7 +67,7 @@ This provides a quick summary before and after organization.
 
 Users can filter files by category using the Categories panel.
 
-![Categories](readme-ifile-mages/categories.png)
+![Categories](Project-Files/readme-file-images/categories.png)
 
 Available categories include:
 
